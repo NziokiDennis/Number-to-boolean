@@ -1,2 +1,2 @@
 # Number-to-boolean
-Converting numbers to booleans
+Boolean(0) === false
